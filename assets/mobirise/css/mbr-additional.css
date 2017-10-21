@@ -1717,11 +1717,11 @@ body {
   }
 }
 .cid-qyH3F4k6EA {
-  background-image: url("../../../assets/images/-20171020-145003-1068x720.jpg");
+  background-image: url("../../../assets/images/1-852x480.jpg");
 }
 .cid-qyH3F4k6EA H1 {
   text-align: left;
-  color: #efefef;
+  color: #767676;
 }
 .cid-qyH3F4k6EA .mbr-text,
 .cid-qyH3F4k6EA .mbr-section-btn {
@@ -1964,6 +1964,12 @@ body {
 }
 .cid-qyH3IutUuc .mbr-overlay ~ .container-slide {
   z-index: auto;
+}
+.cid-qyH3IutUuc H2 {
+  color: #941616;
+}
+.cid-qyH3IutUuc P {
+  color: #efefef;
 }
 .cid-qyHbacY4lB {
   padding-top: 90px;
